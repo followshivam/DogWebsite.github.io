@@ -5,6 +5,6 @@ TinDog Starting Files
 
 WEBSITE LINK:
 
-https://followshivam.github.io/TinyDog1.github.io/
+https://followshivam.github.io/DogWebsite.github.io/
 OR
 https://mysterious-reaches-44498.herokuapp.com/
